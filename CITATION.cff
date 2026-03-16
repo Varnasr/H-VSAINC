@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this project in your research, please cite it as below."
+type: software
+title: "H-VSAINC: Longitudinal Vote Share Analysis for Hyderabad"
+authors:
+  - family-names: Raman
+    given-names: Varna Sri
+url: "https://github.com/Varnasr/H-VSAINC"
+repository-code: "https://github.com/Varnasr/H-VSAINC"
+license: MIT
+keywords:
+  - elections
+  - hyderabad
+  - india
+  - political-economy
+  - data-analysis
+
+date-released: "2025-01-01"
